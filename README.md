@@ -1,4 +1,4 @@
-# Geography 702: <br>Concepts in Geography
+# Geography 200: <br>Orientation in Geography
 
 University of Kentucky
 <br>[Matthew W. Wilson](https://wilsonism.github.io/)
