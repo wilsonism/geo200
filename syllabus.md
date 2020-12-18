@@ -1,5 +1,5 @@
 # Geography 200:<br>Orientation in Geography<br>Spring 2021
-Lectures: T 2-4:30pm, Classroom Building 301 and via Zoom
+Class Meetings: TR 2-3:15pm via Zoom
 
 **[Dr. Matthew W. Wilson](https://wilsonism.github.io/)**<br>
 *Email:* matthew.w.wilson@uky.edu<br>
@@ -9,50 +9,48 @@ Lectures: T 2-4:30pm, Classroom Building 301 and via Zoom
 
 ## I. Course Description
 
-Contemporary geographic concepts and theories are examined with emphasis on concepts within human geography.
+Introduces students to geographic perspectives, theories, research and professional opportunities. Applied quantitative and qualitative approaches to geographic research are reviewed and examples from current literature presented and discussed.
 
 ## II. Learning Objectives
 
-This course is designed to operate in tension with a disciplinary priority on *the history* of geographic thought. As such, weekly discussions will center on a single book, as an access point into the consistencies and contradictions in contemporary geographic debate. This course is designed to help students:
-* Engage in discussions about geographic scholarship,
-* Trace geographic thought within recent geographic studies,
-* Write critical and informed analyses of entire texts, and
+This course is designed as an introduction to the discipline of geography for new majors, and as such will help students:
+* Engage in discussions about the theories and concepts that have animated the field,
+* Trace the history of the discipline of geography, 
+* Write responses to and reports on geographic scholarship, and
 * Practice independent research in order to situate geographic ideas.
 
 ## III. Format
 
-This course will be composed entirely of seminar discussions. These discussions may occur in-person or via Zoom.
+This course will be composed of lectures, discussions based on assigned readings, and student presentations.
 
 ## IV. Required Texts
 
-There are 12 required books for this course. Please plan ahead. Contact the instructor if you have difficulty accessing any book.
+There is no required text for this course. Assigned weekly readings will be made available via Canvas.
 
 ## V. Assignments, Activities, and Grading
 
 ### Assessment overview.
 
-Students will be assessed in this course using a variety of methods. Participation in and preparations for seminar are fundamental to successful completion of the course. Assessment is distributed in the following ways, for a total of 100 points:
-* Class participation and preparedness (40 points)
-* Reaction paper 1 (15 points)
-* Reaction paper 2 (15 points)
-* Final paper (30 points)
+Students will be assessed in this course using a variety of methods. Participation in and preparations for class discussions are fundamental to successful completion of the course. Assessment is distributed in the following ways, for a total of 100 points:
+* Midterm Exam (15 points)
+* Final Exam (25 points)
+* Weekly Reading Responses (25 points)
+* Literature Reviews (20 points)
+* Book Review and Presentation (15 points)
 
 Final grades will be based on a standard scale, i.e., A=90-100%; B=80-89%; C=70-79%; D=60-69%; E=less than 60%. Grades for all assignments will be available via the University of Kentucky Canvas system (http://uk.instructure.com).
 
-### Class participation and preparedness.
+### Midterm and final exams.
 
-Each week, students will be asked to volunteer to lead our discussions, and these students will coordinate their plans with the instructor. We will use the Canvas discussion board to share questions and resources. Schedule extended time to read the weekly assigned books. Prepare your contributions to our seminars in the form of questions and clarifications, ruminations on selected passages, and select additional material to share in the course of our discussions. This is a rare commons that marks the beginning of your graduate study. Therefore, **everyone should contribute to seminar discussions**. If you find this to be difficult, please schedule time to speak with the instructor.
+There are two exams: one at midterm and one final exam which will be comprehensive. Both will be held online via Canvas and students are encouraged to use their notes and readings.
 
-### Reaction papers.
+### Weekly reading responses.
 
-There are two reaction papers. These papers should be around five pages, double-spaced, and focus on a single book. Each paper should address the following questions:
-1. What is the argument of the book? (How might you summarize the book? How might this book relate to other readings in previous weeks?)
-2. What evidence is provided to support the argument? (How is the argument constructed? What problem does the book seek to address?)
-3. What are the limits to the argument?
-4. What are the strengths of the argument?
-5. What is the significance of this book (as a book)?
+Each week that there is an assigned reading, students will be asked to write a reading response, on Canvas. These will be used to gauge a student's depth of understanding, to formulate exam questions, and to determine the course of the discussion. Each response must include:
+1. two points drawn from the reading(s) that require clarification or elaboration, and
+2. two direct quotes from the reading(s) that can serve to provoke further discussion.
 
-### Final paper.
+### Literature reviews.
 
 The final paper must be submitted by the scheduled due date for full-credit. The paper should be around 15 pages (no more than 20 pages), double-spaced, and examine a single book from the seminar in greater detail, using additional, supplementary reading. A 250-word abstract will be due in advance that will be shared with the entire class.
 
