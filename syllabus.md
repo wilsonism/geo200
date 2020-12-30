@@ -149,7 +149,7 @@ If you have a documented disability that requires academic accommodations, pleas
 
 | Week | Topic | Reading |
 | :------- | :--------------:        | :--------------:        |
-| 1:<br>Aug. 18 | Introductions | - - - |
+| 1:<br>Jan. 26, 28 | Introductions | Harrison, Pile, Thrift, <br>"The Curious, the Exalted, the Occult, the Passion", <br>*Patterned Ground* (2004) |
 | 2:<br>Aug. 25 | Geography and Modernity | Susan Schulten, <br>*The Geographical Imagination in America* (2001) |
 | 3:<br>Sep. 1 | Spatial Theories | Doreen Massey, <br>*For Space* (2005) |
 | 4:<br>Sep. 8 | Nature and Capital | Neil Smith, <br>*Uneven Development* (1984) |
