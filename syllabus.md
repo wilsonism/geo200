@@ -149,8 +149,8 @@ If you have a documented disability that requires academic accommodations, pleas
 
 | Week | Topic | Reading |
 | :------- | :--------------:        | :--------------:        |
-| 1:<br>Jan. 26, 28 | Introductions | Harrison, Pile, Thrift, <br>"The Curious, the Exalted, the Occult, the Passion", <br>*Patterned Ground* (2004) |
-| 2:<br>Aug. 25 | Geography and Modernity | Susan Schulten, <br>*The Geographical Imagination in America* (2001) |
+| 1:<br>Jan. 26, 28 | Introductions | Harrison, Pile, Thrift, <br>"The Curious, the Exalted, the Occult, the Passion", <br>in *Patterned Ground* (2004) |
+| 2:<br>Feb. 2, 4 | Nature-Culture | Harrison, Pile, Thrift, <br>"Science and the Landscape", and <br>"Developing Patterns: Ethologies and the Intense Entanglements of Process", <br>in *Patterned Ground* (2004) |
 | 3:<br>Sep. 1 | Spatial Theories | Doreen Massey, <br>*For Space* (2005) |
 | 4:<br>Sep. 8 | Nature and Capital | Neil Smith, <br>*Uneven Development* (1984) |
 | 5:<br>Sep. 15 | Seminar will not meet. | - - - |
@@ -177,7 +177,7 @@ Gibson-Graham, J. K. 2006. *A Postcapitalist Politics*. Minneapolis: University 
 
 Gilmore, Ruth Wilson. 2007. *Golden Gulag: Prisons, surplus, crisis, and opposition in globalizing California*. Berkeley: University of California Press.
 
-Harvey, David. 1989. *The Condition of Postmodernity: An enquiry into the origins of cultural change*. Cambridge, Mass., USA: Blackwell.
+Harrison, Stephan, Steve Pile, and Nigel Thrift, eds. 2004. *Patterned Ground: Entanglements of Nature and Culture*. London: Reaktion Books.
 
 Kitchin, Rob, and Martin Dodge. 2011. *Code/space: Software and everyday life*. Cambridge, Mass.: MIT Press.
 
