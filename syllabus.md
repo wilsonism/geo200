@@ -34,8 +34,8 @@ There is no required text for this course. Assigned weekly readings will be made
 Students will be assessed in this course using a variety of methods. Participation in and preparations for class discussions are fundamental to successful completion of the course. Assessment is distributed in the following ways, for a total of 100 points:
 * Midterm Exam (15 points)
 * Final Exam (25 points)
-* Weekly Reading Responses (25 points)
-* Literature Reviews (20 points)
+* Reading Responses (25 points)
+* Exercises and Projects (20 points)
 * Book Review and Presentation (15 points)
 
 Final grades will be based on a standard scale, i.e., A=90-100%; B=80-89%; C=70-79%; D=60-69%; E=less than 60%. Grades for all assignments will be available via the University of Kentucky Canvas system (http://uk.instructure.com).
@@ -44,15 +44,23 @@ Final grades will be based on a standard scale, i.e., A=90-100%; B=80-89%; C=70-
 
 There are two exams: one at midterm and one final exam which will be comprehensive. Both will be held online via Canvas and students are encouraged to use their notes and readings.
 
-### Weekly reading responses.
+### Reading responses.
 
 Each week that there is an assigned reading, students will be asked to write a reading response, on Canvas. These will be used to gauge a student's depth of understanding, to formulate exam questions, and to determine the course of the discussion. Each response must include:
 1. two points drawn from the reading(s) that require clarification or elaboration, and
 2. two direct quotes from the reading(s) that can serve to provoke further discussion.
 
-### Literature reviews.
+### Exercises and projects.
 
-The final paper must be submitted by the scheduled due date for full-credit. The paper should be around 15 pages (no more than 20 pages), double-spaced, and examine a single book from the seminar in greater detail, using additional, supplementary reading. A 250-word abstract will be due in advance that will be shared with the entire class.
+Throughout the course, students will be asked to complete small exercises and projects, to better understand the range of geographical inquiry and research. These may require some field study as well as library research.
+
+### Book review and presentation.
+
+Students will write a report on a book **written by a geographer** on a topic of their choosing. The report should be no longer than 2,000 words and should answer the following four questions:
+1. What key terms, concepts, or ideas will need to be understood before reading the book?
+2. What is the argument of the book? (Alternatively: How might you summarize the book?)
+3. What evidence is used by the author to support their argument? (Alternatively: How is the argument constructed? What problem does the book seek to address?)
+4. Why is this book significant? (Alternatively: Why should this book be read?)
 
 ## VI. Important Notices
 
@@ -150,45 +158,28 @@ If you have a documented disability that requires academic accommodations, pleas
 | Week | Topic | Reading |
 | :------- | :--------------:        | :--------------:        |
 | 1:<br>Jan. 26, 28 | Introductions | Harrison, Pile, Thrift, <br>"The Curious, the Exalted, the Occult, the Passion", <br>in *Patterned Ground* (2004) |
-| 2:<br>Feb. 2, 4 | Nature-Culture | Harrison, Pile, Thrift, <br>"Science and the Landscape", and <br>"Developing Patterns: Ethologies and the Intense Entanglements of Process", <br>in *Patterned Ground* (2004) |
-| 3:<br>Sep. 1 | Spatial Theories | Doreen Massey, <br>*For Space* (2005) |
-| 4:<br>Sep. 8 | Nature and Capital | Neil Smith, <br>*Uneven Development* (1984) |
-| 5:<br>Sep. 15 | Seminar will not meet. | - - - |
-| 6:<br>Sep. 22 | Space and Capitalism | David Harvey, <br>*The Condition of Postmodernity* (1989) |
-| 7:<br>Sep. 29 | Feminist Geographies | Gillian Rose, <br>*Feminism and Geography* (1993) |
-| 8:<br>Oct. 6 |  Carceral Geographies | Ruth Wilson Gilmore, <br>*Golden Gulag* (2007) |
-| 9:<br>Oct. 13 | **Reaction Paper 1 Due**<br>Border Geographies | Melissa Wright, <br>*Disposable Women* (2006) |
-| 10:<br>Oct. 20 | Black Geographies | Katherine McKittrick, <br>*Demonic Grounds* (2006) |
-| 11:<br>Oct. 27 | **Final Paper Abstract Due**<br>Space and Capitalism, cont. | J.K. Gibson-Graham, <br>*A Postcapitalist Politics* (2006) |
-| 12:<br>Nov. 3 | Radical Geographies | Trevor Barnes and Eric Sheppard, <br>*Spatial Histories of Radical Geography* (2019) |
-| 13:<br>Nov. 10 | Digital Geographies | Rob Kitchin and Martin Dodge, <br>*Code/Space* (2011) |
-| 14:<br>Nov. 17 | **Reaction Paper 2 Due**<br>Digital Geographies, cont. | Louise Amoore, <br>*Cloud Ethics* (2020) |
-| 15:<br>Nov. 24 | Seminar will not meet. | - - - |
+| 2:<br>Feb. 2, 4 | Nature-Culture | Harrison, Pile, Thrift, <br>"Science and the Landscape" and <br>"Developing Patterns: Ethologies and the Intense Entanglements of Process", <br>in *Patterned Ground* (2004) |
+| 3:<br>Feb. 9, 11 | Discipline | Heffernan, <br>"Histories of Geography", <br>in *Key Concepts in Geography* (2003) |
+| 4:<br>Feb. 16, 18 | Research | Harrowell, Davies, Disney, <br>"Making Space for Failure in Geographic Research", <br>in *The Professional Geographer* (2018) |
+| 5:<br>Feb. 23, 25 | Practicum: Walking the City | - - - |
+| 6:<br>Mar. 2, 4 | Space and Capitalism | David Harvey, <br>*The Condition of Postmodernity* (1989) |
+| 7:<br>Mar. 9, 11 | Feminist Geographies | Gillian Rose, <br>*Feminism and Geography* (1993) |
+| 8:<br>Mar. 16, 18 |  Carceral Geographies | Ruth Wilson Gilmore, <br>*Golden Gulag* (2007) |
+| 9:<br>Mar. 23, 25 | **Reaction Paper 1 Due**<br>Border Geographies | Melissa Wright, <br>*Disposable Women* (2006) |
+| 10:<br>Mar. 30, Apr. 1 | Black Geographies | Katherine McKittrick, <br>*Demonic Grounds* (2006) |
+| 11:<br>Apr. 6, 8 | **Final Paper Abstract Due**<br>Space and Capitalism, cont. | J.K. Gibson-Graham, <br>*A Postcapitalist Politics* (2006) |
+| 12:<br>Apr. 13, 15 | Radical Geographies | Trevor Barnes and Eric Sheppard, <br>*Spatial Histories of Radical Geography* (2019) |
+| 13:<br>Apr. 20, 22 | Digital Geographies | Rob Kitchin and Martin Dodge, <br>*Code/Space* (2011) |
+| 14:<br>Apr. 27, 29 | **Reaction Paper 2 Due**<br>Digital Geographies, cont. | Louise Amoore, <br>*Cloud Ethics* (2020) |
+| 15:<br>May 4 | Seminar will not meet. | - - - |
 
-**Final Paper Due: Friday, Dec. 4th, 5pm on Canvas**
+**Final Exam Due: Thursday, May 13th, 5pm on Canvas**
 
 ## VIII. References
 
-Amoore, Louise. 2020. *Cloud ethics: algorithms and the attributes of ourselves and others*. Durham: Duke University Press.
-
-Barnes, Trevor J., and Eric S. Sheppard, eds. 2019. *Spatial Histories of Radical Geography: North America and beyond*. Hoboken, NJ: Wiley.
-
-Gibson-Graham, J. K. 2006. *A Postcapitalist Politics*. Minneapolis: University of Minnesota Press.
-
-Gilmore, Ruth Wilson. 2007. *Golden Gulag: Prisons, surplus, crisis, and opposition in globalizing California*. Berkeley: University of California Press.
-
 Harrison, Stephan, Steve Pile, and Nigel Thrift, eds. 2004. *Patterned Ground: Entanglements of Nature and Culture*. London: Reaktion Books.
 
-Kitchin, Rob, and Martin Dodge. 2011. *Code/space: Software and everyday life*. Cambridge, Mass.: MIT Press.
+Harrowell, Elly, Thom Davies, and Tom Disney. 2018. "Making Space for Failure in Geographic Research."  *The Professional Geographer* 70 (2):230-238.
 
-Massey, Doreen. 2005. *For Space*. London: SAGE.
+Heffernan, Mike. 2003. "Histories of Geography." In *Key Concepts in Geography*, edited by Sarah L. Holloway, Stephen P. Rice and Gill Valentine, 3-22. London: Sage.
 
-McKittrick, Katherine. 2006. *Demonic Grounds: Black women and the cartographies of struggle*. Minneapolis: University of Minnesota Press.
-
-Rose, Gillian. 1993. *Feminism and Geography: The limits of geographical knowledge*. Minneapolis: University of Minnesota Press.
-
-Schulten, Susan. 2001. *The Geographical Imagination in America, 1880-1950*. Chicago: University of Chicago Press.
-
-Smith, Neil. 1984. *Uneven Development: Nature, capital, and the production of space*. New York, NY: Blackwell.
-
-Wright, Melissa W. 2006. *Disposable Women and Other Myths of Global Capitalism*. New York: Routledge.
