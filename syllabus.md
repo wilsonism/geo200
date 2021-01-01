@@ -161,25 +161,32 @@ If you have a documented disability that requires academic accommodations, pleas
 | 2:<br>Feb. 2, 4 | Nature-Culture | Harrison, Pile, Thrift, <br>"Science and the Landscape" and <br>"Developing Patterns: Ethologies and the Intense Entanglements of Process", <br>in *Patterned Ground* (2004) |
 | 3:<br>Feb. 9, 11 | Discipline | Heffernan, <br>"Histories of Geography", <br>in *Key Concepts in Geography* (2003) |
 | 4:<br>Feb. 16, 18 | Research | Harrowell, Davies, Disney, <br>"Making Space for Failure in Geographic Research", <br>in *The Professional Geographer* (2018) |
-| 5:<br>Feb. 23, 25 | Practicum: Walking the City | - - - |
-| 6:<br>Mar. 2, 4 | Space and Capitalism | David Harvey, <br>*The Condition of Postmodernity* (1989) |
-| 7:<br>Mar. 9, 11 | Feminist Geographies | Gillian Rose, <br>*Feminism and Geography* (1993) |
-| 8:<br>Mar. 16, 18 |  Carceral Geographies | Ruth Wilson Gilmore, <br>*Golden Gulag* (2007) |
-| 9:<br>Mar. 23, 25 | **Reaction Paper 1 Due**<br>Border Geographies | Melissa Wright, <br>*Disposable Women* (2006) |
-| 10:<br>Mar. 30, Apr. 1 | Black Geographies | Katherine McKittrick, <br>*Demonic Grounds* (2006) |
+| 5:<br>Feb. 23, 25 | Method  | Rose, <br>"Situating Knowledges", <br>in *Progress in Human Geography* (1997) |
+| 6:<br>Mar. 2, 4 | Theory | Demeritt, <br>"Social theory and the reconstruction of science and geography", <br>in *Transactions of the IBG* (1996) |
+| 7:<br>Mar. 9, 11 | Review and **Midterm Exam** | - - - |
+| 8:<br>Mar. 16, 18 |  Cities & Societies | Bonds, <br>"Race and Ethnicity II", <br>in *Progress in Human Geography* (2020) |
+| 9:<br>Mar. 23, 25 | Environment | Hovorka, <br>"Animal Geographies III", <br>in *Progress in Human Geography* (2019) |
+| 10:<br>Mar. 30, Apr. 1 | Mapping & GIS | - - - |
 | 11:<br>Apr. 6, 8 | **Final Paper Abstract Due**<br>Space and Capitalism, cont. | J.K. Gibson-Graham, <br>*A Postcapitalist Politics* (2006) |
 | 12:<br>Apr. 13, 15 | Radical Geographies | Trevor Barnes and Eric Sheppard, <br>*Spatial Histories of Radical Geography* (2019) |
 | 13:<br>Apr. 20, 22 | Digital Geographies | Rob Kitchin and Martin Dodge, <br>*Code/Space* (2011) |
-| 14:<br>Apr. 27, 29 | **Reaction Paper 2 Due**<br>Digital Geographies, cont. | Louise Amoore, <br>*Cloud Ethics* (2020) |
-| 15:<br>May 4 | Seminar will not meet. | - - - |
+| 14:<br>Apr. 27, 29 | **Book Review Presentations** | - - - |
+| 15:<br>May 4 | Review for Final Exam | - - - |
 
 **Final Exam Due: Thursday, May 13th, 5pm on Canvas**
 
 ## VIII. References
 
+Bonds, Anne. 2020. "Race and ethnicity II: White women and the possessive geographies of white supremacy." *Progress in Human Geography* 44 (4):778-788.
+
+Demeritt, David. 1996. "Social theory and the reconstruction of science and geography." *Transactions of the IBG* 21 (3):484-503.
+
 Harrison, Stephan, Steve Pile, and Nigel Thrift, eds. 2004. *Patterned Ground: Entanglements of Nature and Culture*. London: Reaktion Books.
 
-Harrowell, Elly, Thom Davies, and Tom Disney. 2018. "Making Space for Failure in Geographic Research."  *The Professional Geographer* 70 (2):230-238.
+Harrowell, Elly, Thom Davies, and Tom Disney. 2018. "Making Space for Failure in Geographic Research." *The Professional Geographer* 70 (2):230-238.
 
 Heffernan, Mike. 2003. "Histories of Geography." In *Key Concepts in Geography*, edited by Sarah L. Holloway, Stephen P. Rice and Gill Valentine, 3-22. London: Sage.
 
+Hovorka, Alice J. 2019. "Animal geographies III: Species relations of power." *Progress in Human Geography* 43 (4):749-757.
+
+Rose, Gillian. 1997. "Situating knowledges: positionality, reflexivities and other tactics." *Progress in Human Geography* 21 (3):305-320.
