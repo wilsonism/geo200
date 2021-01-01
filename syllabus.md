@@ -25,7 +25,7 @@ This course will be composed of lectures, discussions based on assigned readings
 
 ## IV. Required Texts
 
-There is no required text for this course. Assigned weekly readings will be made available via Canvas.
+There is no required textbook for this course. Assigned weekly readings will either be made available via Canvas, or students will be asked to locate the reading using library services.
 
 ## V. Assignments, Activities, and Grading
 
@@ -165,11 +165,11 @@ If you have a documented disability that requires academic accommodations, pleas
 | 6:<br>Mar. 2, 4 | Theory | Demeritt, <br>"Social theory and the reconstruction of science and geography", <br>in *Transactions of the IBG* (1996) |
 | 7:<br>Mar. 9, 11 | Review and **Midterm Exam** | - - - |
 | 8:<br>Mar. 16, 18 |  Cities & Societies | Bonds, <br>"Race and Ethnicity II", <br>in *Progress in Human Geography* (2020) |
-| 9:<br>Mar. 23, 25 | Environment | Hovorka, <br>"Animal Geographies III", <br>in *Progress in Human Geography* (2019) |
-| 10:<br>Mar. 30, Apr. 1 | Mapping & GIS | - - - |
-| 11:<br>Apr. 6, 8 | **Final Paper Abstract Due**<br>Space and Capitalism, cont. | J.K. Gibson-Graham, <br>*A Postcapitalist Politics* (2006) |
-| 12:<br>Apr. 13, 15 | Radical Geographies | Trevor Barnes and Eric Sheppard, <br>*Spatial Histories of Radical Geography* (2019) |
-| 13:<br>Apr. 20, 22 | Digital Geographies | Rob Kitchin and Martin Dodge, <br>*Code/Space* (2011) |
+| 9:<br>Mar. 23, 25 | Cities & Societies, cont. | Eaves, <br>"The Imperative of Struggle", <br>in *Gender, Place & Culture* (2019) |
+| 10:<br>Mar. 30, Apr. 1 | Environment | Hovorka, <br>"Animal Geographies III", <br>in *Progress in Human Geography* (2019) |
+| 11:<br>Apr. 6, 8 | Environment, cont. | Sundberg, <br>"Diabolic Caminos in the Desert and Cat Fights on the Rio", <br>in *Annals of the American Association of Geographers* (2011) |
+| 12:<br>Apr. 13, 15 | Mapping & GIS | Leszczynski, <br>"Digital Methods III", <br>in *Progress in Human Geography* (2020) |
+| 13:<br>Apr. 20, 22 | Mapping & GIS, cont. | Fields, <br>"Automated Landlord", <br>in *Environment & Planning A: Economy & Space* (2019) |
 | 14:<br>Apr. 27, 29 | **Book Review Presentations** | - - - |
 | 15:<br>May 4 | Review for Final Exam | - - - |
 
@@ -181,6 +181,10 @@ Bonds, Anne. 2020. "Race and ethnicity II: White women and the possessive geogra
 
 Demeritt, David. 1996. "Social theory and the reconstruction of science and geography." *Transactions of the IBG* 21 (3):484-503.
 
+Eaves, LaToya. 2019. "The imperative of struggle: feminist and gender geographies in the United States." *Gender, Place and Culture* 26 (7-9):1314-1321.
+
+Fields, Desiree. 2019. "Automated landlord: Digital technologies and post-crisis financial accumulation." *Environment and Planning A: Economy and Space*.
+
 Harrison, Stephan, Steve Pile, and Nigel Thrift, eds. 2004. *Patterned Ground: Entanglements of Nature and Culture*. London: Reaktion Books.
 
 Harrowell, Elly, Thom Davies, and Tom Disney. 2018. "Making Space for Failure in Geographic Research." *The Professional Geographer* 70 (2):230-238.
@@ -189,4 +193,8 @@ Heffernan, Mike. 2003. "Histories of Geography." In *Key Concepts in Geography*,
 
 Hovorka, Alice J. 2019. "Animal geographies III: Species relations of power." *Progress in Human Geography* 43 (4):749-757.
 
+Leszczynski, Agnieszka. 2020. "Digital methods III: The digital mundane." *Progress in Human Geography* 44 (6):1194-1201.
+
 Rose, Gillian. 1997. "Situating knowledges: positionality, reflexivities and other tactics." *Progress in Human Geography* 21 (3):305-320.
+
+Sundberg, Juanita. 2011. "Diabolic Caminos in the Desert and Cat Fights on the Rio: A Posthumanist Political Ecology of Boundary Enforcement in the United States–Mexico Borderlands." *Annals of the Association of American Geographers* 101 (2):318-336.
