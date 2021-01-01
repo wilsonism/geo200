@@ -91,11 +91,11 @@ The instructor may choose to remove a mask when pedagogically necessary at the f
 
 ### Be in contact.
 
-Students are responsible for checking their UKY email account; the class listserv is what will be used to send communications outside class. Email is the best way to contact the instructor (place ‘GEO702’ in the subject heading). Please allow at least 24 hours for a response by email during weekdays. The instructor will not necessarily respond to emails over the weekends.
+Students are responsible for checking their UKY email account; the class listserv is what will be used to send communications outside class. Email is the best way to contact the instructor (place ‘GEO200’ in the subject heading). Please allow at least 24 hours for a response by email during weekdays. The instructor will not necessarily respond to emails over the weekends.
 
 ### Be a resource for others.
 
-Students are strongly encouraged to exchange contact information with classmates, in order to facilitate the objectives of this seminar.
+Students are strongly encouraged to exchange contact information with classmates, in order to facilitate the objectives of this course.
 
 ### Get permission before recording.
 
