@@ -185,7 +185,7 @@ Eaves, LaToya. 2019. "The imperative of struggle: feminist and gender geographie
 
 Fields, Desiree. 2019. "Automated landlord: Digital technologies and post-crisis financial accumulation." *Environment and Planning A: Economy and Space*.
 
-Harrison, Stephan, Steve Pile, and Nigel Thrift, eds. 2004. *Patterned Ground: Entanglements of Nature and Culture*. London: Reaktion Books.
+Harrison, Stephan, Steve Pile, and Nigel Thrift. 2004. "Grounding Patterns: Deciphering (Dis)Order in the Entanglements of Nature and Culture." In *Patterned Ground: Entanglements of Nature and Culture*, edited by Harrison, Pile and Thrift, 15-41. London: Reaktion Books.
 
 Harrowell, Elly, Thom Davies, and Tom Disney. 2018. "Making Space for Failure in Geographic Research." *The Professional Geographer* 70 (2):230-238.
 
