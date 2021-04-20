@@ -173,7 +173,7 @@ If you have a documented disability that requires academic accommodations, pleas
 | 14:<br>Apr. 27, 29 | **Book Review Presentations** | - - - |
 | 15:<br>May 4 | Review for Final Exam | - - - |
 
-**Final Exam Due: Thursday, May 13th, 5pm on Canvas**
+**Final Exam Due: Tuesday, May 11th, 5pm on Canvas**
 
 ## VIII. References
 
